@@ -8,8 +8,3 @@
 - Go back and select Joiner, add server invite and click join
 - Go back again to spammer, put channel id and anything to spam
 - Click Raid
-
-
-## 📝 Credit
-Offender for adding it here
-Raider Creators for making it 
